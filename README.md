@@ -1,4 +1,5 @@
 # Abiskar-demo
-This is my first  git repository
+
+This is my first git repository
 <br>
-Author-Abiskar khadka
+Author-Abiskar (the coder)
